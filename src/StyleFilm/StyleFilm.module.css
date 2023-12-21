@@ -1,0 +1,19 @@
+.RWM{
+    background-image: url('../Film_Pic/avanger.jpg');
+    min-height: 700px;
+}
+.bg_rgba{
+    background-color: rgba(0, 0, 0, .5);
+    min-height: 700px;
+}
+.bg_glasses{
+    background-image: url('../../public/glassesImage/background.jpg');
+    min-height: 1000px;
+    background-position: fixed;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bg_rgba_glas{
+    background-color: rgba(0, 0, 0, .5);
+    min-height: 1000px;
+}
